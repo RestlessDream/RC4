@@ -8,6 +8,6 @@
 - *util.h, util.c* - contains utility methods (e.g. *swap...*);
 
 ### Unit tests:
-- *test_rc4.c* - Salsa20 standard test set;
+- *test_rc4.c* - RC4 standard test set;
 - *test_util.c* - utility methods test set;
 
